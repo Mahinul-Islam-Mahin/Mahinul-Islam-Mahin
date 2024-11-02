@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://savvyfinanceguru.com/ page. <br>- 🌱 I’m currently learning HTML/CSS/JS<br><br> 
+🔭 I’m currently working on https://savvyfinanceguru.com/ page. <br>- 🌱 I’m currently learning HTML/CSS/JS/React<br><br> 
 
 Web-Devloper
 ------------
