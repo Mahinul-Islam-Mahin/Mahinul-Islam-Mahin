@@ -1,3 +1,6 @@
+<img src="https://media.discordapp.net/attachments/1222830200811687936/1306540588333797428/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ex=67370a3e&is=6735b8be&hm=6ed29c2c5ff256cebc9d46d9918d7d4d59cf4d4659c3bbd2c57c6be0f74d9fa5&=&width=1193&height=671" alt="" />;
+
+
 # 💫 About Me:
 🔭 I’m currently working on https://savvyfinanceguru.com/ page. <br>- 🌱 I’m currently learning HTML/CSS/JS/React<br><br> 
 
