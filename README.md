@@ -1,13 +1,13 @@
-<img src="https://media.discordapp.net/attachments/1222830200811687936/1306540588333797428/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?ex=67370a3e&is=6735b8be&hm=6ed29c2c5ff256cebc9d46d9918d7d4d59cf4d4659c3bbd2c57c6be0f74d9fa5&=&width=1193&height=671" alt="" />;
+<img src="https://i.ibb.co.com/B47WG2q/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />;
 
 
 # 💫 About Me:
 🔭 I’m currently working on https://savvyfinanceguru.com/ page. <br>- 🌱 I’m currently learning HTML/CSS/JS/React<br><br> 
 
-Web-Devloper
+Web-Developer
 ------------
 
-Hello there! I'm Mahinul Islam, a passionate junior web developer with a flair for crafting digital experiences. My journey into the world of web development began with a curiosity-driven click, and it's been an exhilarating ride ever since. I have a foundation in HTML and CSS, and I'm constantly expanding my skill set to keep pace with the dynamic web landscape. From designing sleek, responsive layouts to optimizing code for performance, I thrive on the creative and technical challenges that web development One of my favorite aspects of this field is problem-solving.
+Hello there! I'm Mahinul Islam, a passionate junior web developer with a flair for crafting digital experiences. My journey into the world of web development began with a curiosity-driven click, and it's been an exhilarating ride ever since. I have a foundation in HTML and CSS, and I'm constantly expanding my skill set to keep pace with the dynamic web landscape. From designing sleek, responsive layouts to optimizing code for performance, I thrive on the creative and technical challenges of web development One of my favourite aspects of this field is problem-solving.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [https://mahinulislam.com](http://mahinul-islam-mahin.netlify.app)
