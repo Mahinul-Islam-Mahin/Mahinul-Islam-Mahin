@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on https://savvyfinanceguru.com/ page. <br>- 🌱 I’m currently learning HTML/CSS/JS/React<br><br> 
+🔭 I’m currently working on https://savvyfinanceguru.com/ page. <br>- 🌱 I’m currently learning HTML/CSS/JS/React/ Node Js/ MOngo/ Firebase/..<br><be> 
+ >> https://www.favoritefurry.com/
 
 Web-Developer
 ------------
