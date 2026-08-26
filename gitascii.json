@@ -189,11 +189,120 @@
         "accentColor": "#ffb800",
         "textColor": "#c5ff4a",
         "animationType": "flip-x",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "backgroundColor": "#0d1117"
       },
       "locked": false,
       "visible": true,
       "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1787720733809",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1147
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "textColor": "#c5ff4a",
+        "accentColor": "#c5ff4a",
+        "borderColor": "#0d1117"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787721223222",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 1275
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "instagram",
+          "website",
+          "linkedin",
+          "discord",
+          "email",
+          "twitter"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/Mahinul-Islam-Mahin",
+          "website": "https://www.facebook.com/mahinuladri/",
+          "instagram": "https://www.instagram.com/dark_canvander/"
+        },
+        "borderColor": "#0d1117"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1787721448276",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
+      "position": {
+        "x": 0,
+        "y": 1403
+      },
+      "size": {
+        "width": 424,
+        "height": 424
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#ff5252",
+        "secondaryColor": "#ffa726",
+        "borderColor": "#3d1d1d",
+        "showRoles": true,
+        "showLanguages": false,
+        "selectedRepos": [
+          "VS-CODE-SETTINGS",
+          "Fylo-deck-Download"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1787721608958",
+      "widgetId": "premium-ascii-dev-score",
+      "name": "Premium-ascii-dev-score Widget",
+      "position": {
+        "x": 390,
+        "y": 1456
+      },
+      "size": {
+        "width": 400,
+        "height": 250
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
     }
   ],
   "globalStyles": {
