@@ -172,6 +172,28 @@
       "locked": false,
       "visible": true,
       "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1787720612379",
+      "widgetId": "godprofile-wakatime",
+      "name": "Godprofile-wakatime Widget",
+      "position": {
+        "x": 272,
+        "y": 971
+      },
+      "size": {
+        "width": 528,
+        "height": 168
+      },
+      "config": {
+        "accentColor": "#ffb800",
+        "textColor": "#c5ff4a",
+        "animationType": "flip-x",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
     }
   ],
   "globalStyles": {
