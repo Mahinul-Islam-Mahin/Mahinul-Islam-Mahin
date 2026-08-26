@@ -36,6 +36,142 @@
       "locked": false,
       "visible": true,
       "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1787719810011",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 136
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "borderColor": "#0d1117",
+        "accentColor": "#ffb800",
+        "textColor": "#ff4a4a",
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1787719866127",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 234
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#c5ff4a",
+        "customTitle": "Surveillance Header"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1787719912692",
+      "widgetId": "surveillance-transmission",
+      "name": "Surveillance-transmission Widget",
+      "position": {
+        "x": 10,
+        "y": 659
+      },
+      "size": {
+        "width": 780,
+        "height": 160
+      },
+      "config": {
+        "accentColor": "#c5ff4a",
+        "customTitle": "Incoming Transmission"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1787720030378",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 827
+      },
+      "size": {
+        "width": 288,
+        "height": 312
+      },
+      "config": {
+        "langsLayout": "donut",
+        "donutCenterLabel": true,
+        "donutLegendPos": "side",
+        "animationType": "slide-down",
+        "animationPreviewKey": 1,
+        "borderColor": "#0d1117"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1787720395804",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 296,
+        "y": 827
+      },
+      "size": {
+        "width": 492,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "react",
+          "nextjs",
+          "nodejs",
+          "tailwind",
+          "postgres",
+          "docker",
+          "git",
+          "html",
+          "css",
+          "reactnative",
+          "flutter",
+          "threejs",
+          "electron",
+          "express",
+          "mongodb",
+          "supabase",
+          "firebase",
+          "github",
+          "figma",
+          "vercel",
+          "netlify",
+          "vscode",
+          "cloudflare"
+        ],
+        "borderColor": "#0d1117",
+        "perLine": 14,
+        "animationType": "slide-left",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
