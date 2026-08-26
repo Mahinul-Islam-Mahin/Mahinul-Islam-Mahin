@@ -218,45 +218,12 @@
       "zIndex": 8
     },
     {
-      "instanceId": "widget_1787721223222",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 0,
-        "y": 1275
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "instagram",
-          "website",
-          "linkedin",
-          "discord",
-          "email",
-          "twitter"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/Mahinul-Islam-Mahin",
-          "website": "https://www.facebook.com/mahinuladri/",
-          "instagram": "https://www.instagram.com/dark_canvander/"
-        },
-        "borderColor": "#0d1117"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
       "instanceId": "widget_1787721448276",
       "widgetId": "premium-ascii-profile-card",
       "name": "Premium-ascii-profile-card Widget",
       "position": {
         "x": 0,
-        "y": 1328
+        "y": 1267
       },
       "size": {
         "width": 424,
@@ -286,7 +253,7 @@
       "name": "Premium-ascii-dev-score Widget",
       "position": {
         "x": 390,
-        "y": 1384
+        "y": 1323
       },
       "size": {
         "width": 400,
@@ -305,24 +272,278 @@
       "zIndex": 11
     },
     {
-      "instanceId": "widget_1787721689787",
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
+      "instanceId": "widget_1787721957439",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
       "position": {
         "x": 10,
-        "y": 1688
+        "y": 1635
       },
       "size": {
-        "width": 780,
-        "height": 240
+        "width": 300,
+        "height": 418
       },
       "config": {
-        "accentColor": "#ffa657",
-        "borderColor": "#0d1117"
+        "searchQuery": "Charizard",
+        "searchCards": [
+          {
+            "id": "pl4-1",
+            "localId": "1",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/pl/pl4/1"
+          },
+          {
+            "id": "gym2-2",
+            "localId": "2",
+            "name": "Blaine's Charizard",
+            "image": "https://assets.tcgdex.net/en/gym/gym2/2"
+          },
+          {
+            "id": "dp3-3",
+            "localId": "3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/dp/dp3/3"
+          },
+          {
+            "id": "lc-3",
+            "localId": "3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/lc/lc/3"
+          },
+          {
+            "id": "base4-4",
+            "localId": "4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base4/4"
+          },
+          {
+            "id": "base1-4",
+            "localId": "4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base1/4"
+          },
+          {
+            "id": "base5-4",
+            "localId": "4",
+            "name": "Dark Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base5/4"
+          },
+          {
+            "id": "ex14-4",
+            "localId": "4",
+            "name": "Charizard δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex14/4"
+          },
+          {
+            "id": "det1-5",
+            "localId": "5",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/sm/det1/5"
+          },
+          {
+            "id": "sv03.5-006",
+            "localId": "006",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/sv/sv03.5/006"
+          },
+          {
+            "id": "ex16-6",
+            "localId": "6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ex/ex16/6"
+          },
+          {
+            "id": "ecard1-6",
+            "localId": "6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/6"
+          },
+          {
+            "id": "sm115-9",
+            "localId": "9",
+            "name": "Charizard GX",
+            "image": "https://assets.tcgdex.net/en/sm/sm115/9"
+          },
+          {
+            "id": "swsh10.5-010",
+            "localId": "010",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/010"
+          },
+          {
+            "id": "A2b-010",
+            "localId": "010",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/A2b/010"
+          },
+          {
+            "id": "swsh10.5-011",
+            "localId": "011",
+            "name": "Radiant Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/011"
+          },
+          {
+            "id": "xy12-11",
+            "localId": "11",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/11"
+          },
+          {
+            "id": "g1-11",
+            "localId": "11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/g1/11"
+          },
+          {
+            "id": "xy2-11",
+            "localId": "11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy2/11"
+          },
+          {
+            "id": "xy12-12",
+            "localId": "12",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/12"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/gym/gym2/2/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/gym/gym2/2/low.webp"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 12
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1787722082010",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
+      "position": {
+        "x": 488,
+        "y": 1632
+      },
+      "size": {
+        "width": 300,
+        "height": 420
+      },
+      "config": {
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1787722129607",
+      "widgetId": "profile-trophy",
+      "name": "Profile-trophy Widget",
+      "position": {
+        "x": 0,
+        "y": 2069
+      },
+      "size": {
+        "width": 800,
+        "height": 200
+      },
+      "config": {
+        "column": 8,
+        "animationType": "slide-up",
+        "animationPreviewKey": 1,
+        "borderColor": "#0d1117",
+        "textColor": "#c5ff4a",
+        "theme": "discord"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1787723481463",
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
+      "position": {
+        "x": 8,
+        "y": 2281
+      },
+      "size": {
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#c5ff4a",
+        "customTitle": "Surveillance Social Feeds",
+        "secondaryColor": "#ffb800",
+        "ledColor": "#00ff88",
+        "textColor": "#ff4a4a",
+        "renderMode": "grid",
+        "animationType": "none",
+        "animationPreviewKey": 8
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1787723582493_0",
+      "widgetId": "social-media",
+      "name": "Social-media Widget (Cópia)",
+      "position": {
+        "x": 0,
+        "y": 2483
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "instagram",
+          "website",
+          "linkedin",
+          "discord",
+          "email",
+          "twitter"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/Mahinul-Islam-Mahin",
+          "website": "https://www.facebook.com/mahinuladri/",
+          "instagram": "https://www.instagram.com/fylo.team?utm_source=ig_web_button_share_sheet&igsi=ZDNlZDc0MzIxNw==",
+          "discord": "https://discord.gg/CykHx9GeAj",
+          "email": "mailto:help.mahinulislam@gmail.com",
+          "twitter": "https://x.com/codewithmahin"
+        },
+        "borderColor": "#0d1117",
+        "badgeStyle": "skillicons",
+        "animationType": "zoom-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1787723815895",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 2611
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {
+        "branch": "main"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 16
     }
   ],
   "globalStyles": {
