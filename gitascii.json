@@ -2,519 +2,97 @@
   "username": "Mahinul-Islam-Mahin",
   "widgets": [
     {
-      "widgetId": "languages",
-      "name": "Languages Widget (Cópia)",
-      "position": {
-        "x": 16,
-        "y": 768
-      },
-      "size": {
-        "width": 536,
-        "height": 312
-      },
-      "config": {
-        "langsLayout": "donut",
-        "donutCenterLabel": true,
-        "hideLangsArr": [],
-        "hideLangs": "",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1787666880997_0"
-    },
-    {
-      "widgetId": "footer",
-      "name": "Footer Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 2578
-      },
-      "size": {
-        "width": 800,
-        "height": 56
-      },
-      "config": {
-        "customTitle": ""
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1787666880997_1"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget (Cópia)",
-      "position": {
-        "x": 552,
-        "y": 768
-      },
-      "size": {
-        "width": 248,
-        "height": 192
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "react",
-          "nextjs",
-          "nodejs",
-          "tailwind",
-          "postgres",
-          "docker",
-          "git",
-          "html",
-          "css",
-          "bootstrap",
-          "reactnative",
-          "threejs",
-          "vite",
-          "electron",
-          "solidjs",
-          "astro",
-          "express",
-          "mongodb",
-          "redis",
-          "supabase",
-          "firebase",
-          "github",
-          "gitlab",
-          "netlify",
-          "vercel",
-          "figma",
-          "vscode",
-          "cloudflare",
-          "npm",
-          "notion"
-        ],
-        "theme": "light",
-        "perLine": 8,
-        "animationType": "scan-lines",
-        "animationPreviewKey": 6
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1787666880997_2"
-    },
-    {
-      "widgetId": "header",
-      "name": "Header Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 104
-      },
-      "size": {
-        "width": 800,
-        "height": 80
-      },
-      "config": {
-        "hideBorder": true,
-        "hideDecorations": true,
-        "animationType": "glitch",
-        "animationPreviewKey": 11,
-        "backgroundColor": "#060606",
-        "accentColor": "#00ffff",
-        "textColor": "#ffb800",
-        "borderColor": "#c5ff4a"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5,
-      "instanceId": "widget_1787666880997_3"
-    },
-    {
-      "instanceId": "widget_1787666880997_4",
-      "widgetId": "ascii-text",
-      "name": "Ascii-text Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "customText": "Welcome To My Github profile",
-        "asciiFont": "block",
-        "charSpacing": 1,
-        "fontSize": 12,
-        "charset": "custom",
-        "customCharset": "",
-        "asciiLines": [
-          "██    ██ ████████ ██        ▄████▄   ▄████▄  ██    ██ ████████      ████████  ▄████▄       ██    ██ ██    ██       ▄████▄  ████████ ████████ ██    ██ ██    ██ ███████▄      ███████▄ ███████▄  ▄████▄  ████████ ████████ ██       ████████",
-          "██    ██ ██       ██       ██    ▀▀ ██    ██ ████████ ██               ██    ██    ██      ████████  ▀████▀       ██    ▀▀    ██       ██    ██    ██ ██    ██ ██    ██      ██    ██ ██    ██ ██    ██ ██          ██    ██       ██      ",
-          "██ ▄▄ ██ ██████   ██       ██       ██    ██ ██ ▀▀ ██ ██████           ██    ██    ██      ██ ▀▀ ██    ██         ██  ████    ██       ██    ████████ ██    ██ ███████▀      ███████▀ ███████▀ ██    ██ ██████      ██    ██       ██████  ",
-          "████████ ██       ██       ██    ▄▄ ██    ██ ██    ██ ██               ██    ██    ██      ██    ██    ██         ██    ██    ██       ██    ██    ██ ██    ██ ██    ██      ██       ██  ▀██▄ ██    ██ ██          ██    ██       ██      ",
-          "██    ██ ████████ ████████  ▀████▀   ▀████▀  ██    ██ ████████         ██     ▀████▀       ██    ██    ██          ▀████▀  ████████    ██    ██    ██  ▀████▀  ███████▀      ██       ██    ██  ▀████▀  ██       ████████ ████████ ████████"
-        ],
-        "hideBorder": false,
-        "detail": "low",
-        "cols": 28,
-        "animationType": "slide-up",
-        "animationPreviewKey": 1,
-        "animationDuration": 1500,
-        "animationEasing": "ease-out",
-        "lockAspectRatio": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1787666880997_5",
-      "widgetId": "stats",
-      "name": "Stats Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 1088
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "statsLayout": "horizontal",
-        "statsStyle": "default",
-        "labelStyle": "label",
-        "animationType": "typewriter",
-        "animationPreviewKey": 1
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
-      "instanceId": "widget_1787666880997_6",
-      "widgetId": "premium-ascii-profile-card",
-      "name": "Premium-ascii-profile-card Widget (Cópia)",
-      "position": {
-        "x": 16,
-        "y": 1634
-      },
-      "size": {
-        "width": 416,
-        "height": 416
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#ff5252",
-        "secondaryColor": "#ffa726",
-        "borderColor": "#3d1d1d",
-        "langsCount": 8
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1787666880997_7",
-      "widgetId": "premium-ascii-dev-score",
-      "name": "Premium-ascii-dev-score Widget (Cópia)",
-      "position": {
-        "x": 424,
-        "y": 1578
-      },
-      "size": {
-        "width": 368,
-        "height": 368
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
-      "instanceId": "widget_1787666880998_8",
-      "widgetId": "premium-ascii-dna",
-      "name": "Premium-ascii-dna Widget (Cópia)",
-      "position": {
-        "x": 400,
-        "y": 1850
-      },
-      "size": {
-        "width": 400,
-        "height": 230
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
-    },
-    {
-      "instanceId": "widget_1787666880998_9",
-      "widgetId": "premium-ascii-coding-velocity",
-      "name": "Premium-ascii-coding-velocity Widget (Cópia)",
-      "position": {
-        "x": 544,
-        "y": 944
-      },
-      "size": {
-        "width": 144,
-        "height": 144
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 11
-    },
-    {
-      "instanceId": "widget_1787666880998_10",
-      "widgetId": "godprofile-marquee",
-      "name": "Godprofile-marquee Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 2050
-      },
-      "size": {
-        "width": 800,
-        "height": 88
-      },
-      "config": {
-        "accentColor": "#b6a891",
-        "marqueeLangs": [
-          "react",
-          "ts",
-          "js",
-          "html",
-          "css",
-          "nodejs",
-          "python",
-          "git",
-          "docker",
-          "linux",
-          "vue",
-          "nextjs",
-          "bootstrap",
-          "reactnative",
-          "threejs",
-          "flutter",
-          "tailwind",
-          "electron",
-          "mongodb",
-          "github",
-          "vscode",
-          "figma",
-          "vercel",
-          "netlify",
-          "supabase",
-          "npm"
-        ],
-        "animationType": "slide-right",
-        "animationPreviewKey": 1,
-        "animationEasing": "linear",
-        "backgroundColor": "transparent"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 12
-    },
-    {
-      "instanceId": "widget_1787666880998_12",
       "widgetId": "surveillance-header",
-      "name": "Surveillance-header Widget (Cópia)",
+      "name": "Surveillance-header Widget",
       "position": {
         "x": 10,
-        "y": 192
+        "y": 0
       },
       "size": {
         "width": 780,
         "height": 417
       },
       "config": {
-        "accentColor": "#11ff00",
-        "customTitle": "Surveillance Header",
-        "secondaryColor": "#c5ff4a",
-        "ledColor": "#00ff88",
-        "modeTag": "198X MODE",
-        "animationType": "zoom-out",
-        "animationPreviewKey": 5,
-        "animationDuration": 1500,
-        "animationEasing": "ease-out"
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 14
+      "zIndex": 1,
+      "instanceId": "widget_1787719571865_0"
     },
     {
-      "instanceId": "widget_1787666880998_13",
-      "widgetId": "surveillance-transmission",
-      "name": "Surveillance-transmission Widget (Cópia)",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
       "position": {
         "x": 10,
-        "y": 600
+        "y": 417
       },
       "size": {
         "width": 780,
-        "height": 160
+        "height": 420
       },
       "config": {
-        "accentColor": "#c5ff4a",
-        "customTitle": "Incoming Transmission",
-        "animationType": "fade-in",
-        "animationPreviewKey": 9,
-        "animationDuration": 2000
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 15
+      "zIndex": 2,
+      "instanceId": "widget_1787719571865_1"
     },
     {
-      "instanceId": "widget_1787666880998_14",
-      "widgetId": "profile-trophy",
-      "name": "Profile-trophy Widget (Cópia)",
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
       "position": {
-        "x": 0,
-        "y": 2128
+        "x": 10,
+        "y": 845
       },
       "size": {
-        "width": 800,
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Social Feeds"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1787719571865_2"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 1051
+      },
+      "size": {
+        "width": 780,
         "height": 200
       },
       "config": {
-        "backgroundColor": "transparent",
-        "noFrame": false,
-        "noBg": false,
-        "column": 9,
-        "row": 5,
-        "theme": "flat",
-        "animationType": "slide-left",
-        "animationPreviewKey": 1
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 16
-    },
-    {
-      "instanceId": "widget_1787666880998_15",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 2328
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {
-        "theme": "dark",
-        "branch": "output",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 17
-    },
-    {
-      "instanceId": "widget_1787666880998_16",
-      "widgetId": "social-media",
-      "name": "Social-media Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 1446
-      },
-      "size": {
-        "width": 800,
-        "height": 180
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "instagram",
-          "website",
-          "linkedin",
-          "discord",
-          "twitter",
-          "devto",
-          "email"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/Mahinul-Islam-Mahin",
-          "website": "https://www.facebook.com/mahinuladri/",
-          "instagram": "https://www.instagram.com/fylo.team?utm_source=ig_web_button_share_sheet&igsi=ZDNlZDc0MzIxNw==",
-          "discord": "https://discord.gg/CykHx9GeAj",
-          "twitter": "https://x.com/codewithmahin",
-          "devto": "https://dev.to/mahinul_islam_d56062451c6",
-          "email": "mailto:help.mahinulislam@gmail.com"
-        },
-        "animationType": "fade-in",
-        "animationPreviewKey": 1
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 18
-    },
-    {
-      "instanceId": "widget_1787719400851",
-      "widgetId": "controlplane-foundry",
-      "name": "Controlplane-foundry Widget",
-      "position": {
-        "x": 0,
-        "y": 1160
-      },
-      "size": {
-        "width": 800,
-        "height": 330
-      },
-      "config": {
-        "layoutType": "hero",
-        "accentColor": "#00A7D1",
-        "selectedRepos": [
-          "VS-CODE-SETTINGS",
-          "Fylo-deck-Download",
-          "Discord.py",
-          "Mahinul-Islam-Mahin"
-        ],
-        "maxRepos": 4,
-        "animationType": "flip-x",
-        "animationPreviewKey": 1
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 17
+      "zIndex": 4,
+      "instanceId": "widget_1787719571865_3"
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "#050308",
     "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
-    "borderColor": "#252525",
-    "fontFamily": "Roboto",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "padding": 16,
+    "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native",
-    "transparentBackground": false
+    "templateStyle": "rugbedbugg"
   },
-  "templateId": "terminal",
+  "templateId": "rugbedbugg",
   "profileSlug": "default"
 }
