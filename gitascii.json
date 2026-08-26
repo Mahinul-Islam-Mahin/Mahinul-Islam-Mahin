@@ -256,7 +256,7 @@
       "name": "Premium-ascii-profile-card Widget",
       "position": {
         "x": 0,
-        "y": 1403
+        "y": 1328
       },
       "size": {
         "width": 424,
@@ -286,7 +286,7 @@
       "name": "Premium-ascii-dev-score Widget",
       "position": {
         "x": 390,
-        "y": 1456
+        "y": 1384
       },
       "size": {
         "width": 400,
@@ -303,6 +303,26 @@
       "locked": false,
       "visible": true,
       "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1787721689787",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 10,
+        "y": 1688
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657",
+        "borderColor": "#0d1117"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
     }
   ],
   "globalStyles": {
