@@ -52,7 +52,7 @@
       "config": {
         "borderColor": "#0d1117",
         "accentColor": "#ffb800",
-        "textColor": "#ff4a4a",
+        "textColor": "#00ffff",
         "animationType": "slide-up",
         "animationPreviewKey": 1
       },
@@ -559,5 +559,9 @@
     "templateStyle": "rugbedbugg"
   },
   "templateId": "rugbedbugg",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1792122136451_cbav4",
+    "updatedAt": "2026-10-16T03:42:21.527Z"
+  }
 }
