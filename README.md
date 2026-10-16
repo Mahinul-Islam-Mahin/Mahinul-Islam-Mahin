@@ -1,7 +1,5 @@
-<a href="https://noveriks.com">
-  <img
-    src="https://gitascii.com/api/Mahinul-Islam-Mahin?v=1789458472441"
-    alt="Mahinul REDME"
-    width="100%"
-  />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahinul-islam-mahin/mahinul-islam-mahin/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahinul-islam-mahin/mahinul-islam-mahin/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/mahinul-islam-mahin/mahinul-islam-mahin/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
